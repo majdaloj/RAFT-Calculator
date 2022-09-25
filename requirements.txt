@@ -1,0 +1,6 @@
+openpyxl==3.0.10
+pandas==1.4.4
+Pillow==9.2.0
+plotly==5.10.0
+streamlit==1.12.2
+xlwings==0.27.14
